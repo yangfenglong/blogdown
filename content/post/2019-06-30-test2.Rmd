@@ -1,0 +1,12 @@
+---
+title: test2
+author: yangfenglong
+date: '2019-06-30'
+slug: test2
+categories:
+  - test
+tags:
+  - test
+---
+
+**XMin** is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the  [**blogdown**](https://github.com/rstudio/blogdown) book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, 
