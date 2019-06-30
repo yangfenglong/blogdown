@@ -32,7 +32,7 @@ footnotereturnlinkcontents = "↩"
     url = "/index.xml"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/yangfenglong/blogdown"
+    url = "git@github.com:yangfenglong/blogdown.git"
 
 [params]
     description = "A website built through Hugo and blogdown."
