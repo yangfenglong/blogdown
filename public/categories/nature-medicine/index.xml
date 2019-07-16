@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nature Medicine on A minimal Hugo website</title>
+    <link>/categories/nature-medicine/</link>
+    <description>Recent content in Nature Medicine on A minimal Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/nature-medicine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Signals from the gut microbiota to distant organs in physiology and disease</title>
+      <link>/nature-medicion/signals-from-the-gut-microbiota-to-distant-organs-in-physiology-and-disease/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/nature-medicion/signals-from-the-gut-microbiota-to-distant-organs-in-physiology-and-disease/</guid>
+      <description>Signals from the gut microbiota to distant organs in physiology and diseaseGut microbiota convert environmental signals and dietary molecules into signaling metabolites to communicate with the host (Contreras et al., 2016).
+ReferenceContreras, A.V., Cocom-Chan, B., Hernandez-Montes, G., Portillo-Bobadilla, T., and Resendis-Antonio, O. (2016). Host-microbiome interaction and cancer: Potential application in precision medicine. Frontiers in Physiology 7, 1–23.
+</description>
+    </item>
+    
+  </channel>
+</rss>

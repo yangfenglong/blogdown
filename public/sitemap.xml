@@ -4,57 +4,54 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>/categories/nature-medicine/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/nature-medicion/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/nature-medicion/signals-from-the-gut-microbiota-to-distant-organs-in-physiology-and-disease/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/test/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>/tags/disease/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/test/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>/tags/gut_microbiota/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/2019/07/01/testnew-new/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2019/06/30/fds3/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2019/06/30/test1/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2019/06/30/test2/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <loc>/tags/review/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -83,81 +80,6 @@
   <url>
     <loc>/note/2017/06/13/a-quick-note/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2016/02/14/a-plain-markdown-post/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/hugo/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/mathjax/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/pandoc/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/rstudio/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/blogdown/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/2015/07/23/hello-r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/2015/07/23/lorem-ipsum/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>

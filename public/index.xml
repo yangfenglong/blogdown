@@ -6,49 +6,20 @@
     <description>Recent content in Home on A minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>testnew</title>
-      <link>/post/2019/07/01/testnew-new/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Signals from the gut microbiota to distant organs in physiology and disease</title>
+      <link>/nature-medicion/signals-from-the-gut-microbiota-to-distant-organs-in-physiology-and-disease/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/07/01/testnew-new/</guid>
-      <description>fdsaf fdssa fdss afds a</description>
-    </item>
-    
-    <item>
-      <title>fds3</title>
-      <link>/post/2019/06/30/fds3/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019/06/30/fds3/</guid>
-      <description>fdsa fds a dfssa</description>
-    </item>
-    
-    <item>
-      <title>test1</title>
-      <link>/post/2019/06/30/test1/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019/06/30/test1/</guid>
-      <description>testplot(cars)机器学习中的正则化问题(1)——概念 一般来说，监督学习就是最小化下面函数：
-\[w^* = arg\min_w \sum_iL(y_i,\;f(x_i;w)) + \lambda\Omega(w)\]
-\[S = \sum_{i=1}^n\left|y_i-f(x_i)\right|\]
-\[P(Y_i|X_i, \theta) = \frac{1}{\delta\sqrt{2\pi}} \exp(-\frac{\|f(X_i) - Y_i\|^2}{2\delta^2}) \tag{1.2} \]
-</description>
-    </item>
-    
-    <item>
-      <title>test2</title>
-      <link>/post/2019/06/30/test2/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019/06/30/test2/</guid>
-      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts,</description>
+      <guid>/nature-medicion/signals-from-the-gut-microbiota-to-distant-organs-in-physiology-and-disease/</guid>
+      <description>Signals from the gut microbiota to distant organs in physiology and diseaseGut microbiota convert environmental signals and dietary molecules into signaling metabolites to communicate with the host (Contreras et al., 2016).
+ReferenceContreras, A.V., Cocom-Chan, B., Hernandez-Montes, G., Portillo-Bobadilla, T., and Resendis-Antonio, O. (2016). Host-microbiome interaction and cancer: Potential application in precision medicine. Frontiers in Physiology 7, 1–23.
+</description>
     </item>
     
     <item>
@@ -68,38 +39,6 @@
       <guid>/note/2017/06/13/a-quick-note/</guid>
       <description>To me, the two most impressive websites based on blogdown are:
  Rob J Hyndman&amp;rsquo;s personal website. Live Free or Dichotomize by Lucy and Nick et al.  I&amp;rsquo;m sure there will be more.</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>/post/2016/02/14/a-plain-markdown-post/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2016/02/14/a-plain-markdown-post/</guid>
-      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
-1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015/07/23/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/post/2015/07/23/lorem-ipsum/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2015/07/23/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>

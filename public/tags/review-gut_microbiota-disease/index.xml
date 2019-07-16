@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>review gut_microbiota disease on A minimal Hugo website</title>
+    <link>/tags/review-gut_microbiota-disease/</link>
+    <description>Recent content in review gut_microbiota disease on A minimal Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/review-gut_microbiota-disease/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>gut_microbiota</title>
+      <link>/post/2019/07/01/test/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/07/01/test/</guid>
+      <description> Signals from the gut microbiota to distant organs in physiology and disease Reference </description>
+    </item>
+    
+  </channel>
+</rss>
