@@ -1,8 +1,7 @@
 ---
 title: Signals from the gut microbiota to distant organs in physiology and disease
-author: Yang
 date: '2019-07-16'
-slug: signals-from-the-gut-microbiota-to-distant-organs-in-physiology-and-disease
+
 categories:
   - Nature Medicine
 tags:
@@ -15,9 +14,11 @@ csl: D:/postdocNcRNA2019/papers/common/styles/cell.csl
 bibliography:  D:/postdocNcRNA2019/papers/common/bibs/Bib.bib
 ---
 
-# Signals from the gut microbiota to distant organs in physiology and disease
+Crosstalk between the gut microbiota and the host has attracted considerable attention owing to its involvement in diverse diseases. 
 
-![Gut microbiota convert environmental signals and dietary molecules into signaling metabolites to communicate with the host [@Contreras2016].](https://media.nature.com/lw926/nature-assets/nm/journal/v22/n10/images/nm.4185-F1.jpg)
+A major challenge in the field is to translate metagenomic findings into a biologically relevant mechanism. 
+
+![Figure 1 Gut microbiota convert environmental signals and dietary molecules into signaling metabolites to communicate with the host. At the top of the figure are indicated factors that can alter the composition of the gut microbiota. The gut microbiota converts these inputs into metabolites, which can signal to different organs and tissues in the host, as indicated below[@Contreras2016].](https://media.nature.com/lw926/nature-assets/nm/journal/v22/n10/images/nm.4185-F1.jpg)
 
 
 

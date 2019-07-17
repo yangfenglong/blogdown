@@ -1,101 +1,41 @@
 ---
-title: About Hugo XMin
-author: Yihui Xie
+title: "Resume"
 ---
+# Fenglong Yang
+***
+ | 
+-----------------------|-----------------------------------------------------------------
+<img src="https://avatars1.githubusercontent.com/u/8182449?s=460&v=4">|Postdoc at [IFFS](http://www.iffs.uestc.edu.cn/iffs_en/), [UESTC](https://www.uestc.edu.cn/)<br/>My supervisor is Prof. [Quan Zou](http://lab.malab.cn/~zq/en/).<br/> <br/>Tel: (+86)15620056265 <br/>Wechat: yangfenglong211314<br/>Email: yangfenglong110@126.com<br/>github: https://github.com/yangfenglong
+<br/>
 
-**XMin** is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the  [**blogdown**](https://github.com/rstudio/blogdown) book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal. In fact, this theme does not contain any JavaScript code at all, although on this example website I did introduce some JavaScript code (still relatively simple anyway). The theme does not contain any images, either, and is pretty much a plain-text theme.
+# Education and work experience
+***
+ | 
+----------------------------------:|:----------------------------------------------------------
+Mar 2019 - Now | Postdoc, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)<br/>
+Jan 2016 - Jan 2019 | Bioinformatic engineer, [Tianjin Novogene Bioinformatics Technology Co., Ltd](https://en.novogene.com/)<br/>
+Sep 2010 - Jun 2015 | Ph.D of Science,  college of biological sciences, [China Agricultural University](http://www.cau.edu.cn/)<br/>
+Sep 2006 - Jul 2010 | Bachelor of of Science, College of agriculture, [Shanxi Agricultural University](http://www.sxau.edu.cn/)
+<br/>
 
-The theme name "XMin" can be interpreted as "**X**ie's **Min**imal theme" (Xie is my last name) or "e**X**tremely **Min**imal theme".
+# Research Interests    
+***
 
-# config.toml
+- Computational prediction of disease-associated microbes 
+- Network-based research of complex diseases
+<br/>
 
-For this example site, I defined permalinks for two sections, `post` and `note`, so that the links to pages under these directories will contain the date info, e.g., `https://xmin.yihui.name/post/2016/02/14/a-plain-markdown-post/`. This is optional, and it is up to your personal taste of URLs.
+# Publications
+***
+1. Yue Deng, **Fenglong Yang**, Chunping Deng, Jinshui Yang, Jing Jia, and Yuan Hongli. 2017. “Biodegradation of Btex Aromatics by a Haloduric Microbial Consortium Enriched from a Sediment of Bohai Sea, China.” **Applied Biochemistry and Biotechnology** 183 (April). doi:10.1007/s12010-017-2471-y.
+1. JinShui Yang, **FengLong Yang**, Yang Yang, GuanLan Xing, ChunPing Deng, YaTing Shen, LiQiang Luo, BaoZhen Li, and HongLi Yuan. 2016. “A Proposal of ‘Core Enzyme’ Bioindicator in Long-Term Pb-Zn Ore Pollution Areas Based on Topsoil Property Analysis.” **Environmental Pollution** 213: 760–69. doi:https://doi.org/10.1016/j.envpol.2016.03.030.
+1. **Fenglong Yang**, Jingshui Yang, Chunping Deng, Nan Chen, Shuangqing Wang, Entao Wang, and Yuan Hongli. 2015. “Bacterial Communities and Their Hydrocarbon Bioremediation Potential in the Bohai Sea, China.” **Marine Ecology Progress Series** 538 (October). doi:10.3354/meps11489.
+1. Embarcaderojimenez, S, **Fenglong Yang**, R Freyehernandez, Y Trujillocabrera, F N R Orduna, Yuan Hongli, and Wang Entao. 2014. “An Improved Protocol for Extraction of Metagenomic Dna from High Humus, Alkaline and Saline Soil of Chinampa for T-Rflp Fingerprinting Analysis.” **British Microbiology Research Journal** 4 (7): 821–30.
 
-```
-[permalinks]
-    post = "/post/:year/:month/:day/:slug/"
-    note = "/note/:year/:month/:day/:slug/"
-```
+<br/>
 
-You can define the menu through `menu.main`, e.g.,
+# Research Fundings
+***
 
-```
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
-```
-
-Alternatively, you can add `menu: main` to the YAML metadata of any of your pages, so that these pages will appear in the menu.
-
-The page footer can be defined in `.Params.footer`, and the text is treated as Markdown, e.g.,
-
-```
-[params]
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017"
-```
-
-# Custom layouts
-
-There are two layout files under `layouts/partials/` that you may want to override: `head_custom.html` and `foot_custom.html`. This is how you inject arbitrary HTML code to the head and foot areas. For example, this site has a file `layouts/partials/foot_custom.html` to support LaTeX math via MathJax and center images automatically:
-
-```html
-<script src="//yihui.name/js/math-code.js"></script>
-<script async src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
-<script async src="//yihui.name/js/center-img.js"></script>
-```
-
-You can certainly enable highlight.js for syntax highlighting by yourself through `head_custom.html` and `foot_custom.html` if you want.
-
-If you do not like the default fonts (e.g., `Palatino`), you may provide your own `static/css/fonts.css` under the root directory of your website to override the `fonts.css` in the theme.
-
-# Other features
-
-I could have added more features to this theme, but I decided not to, since I have no intention to make this theme feature-rich. However, I will teach you how. I have prepared several examples via pull requests at https://github.com/yihui/hugo-xmin/pulls, so that you can see the implementations of these features when you check out the diffs in the pull requests. For example, you can:
-
-- [Enable Google Analytics](https://github.com/yihui/hugo-xmin/pull/3)
-
-- [Enable Disqus comments](https://github.com/yihui/hugo-xmin/pull/4)
-
-- [Enable highlight.js for syntax highlighting of code blocks](https://github.com/yihui/hugo-xmin/pull/5)
-
-- [Display categories and tags on a page](https://github.com/yihui/hugo-xmin/pull/2)
-
-- [Add a table of contents](https://github.com/yihui/hugo-xmin/pull/7)
-
-- [Add a link in the footer of each page to "Edit this page" on Github](https://github.com/yihui/hugo-xmin/pull/6)
-
-To fully understand these examples, you have to read [the section on Hugo templates](https://bookdown.org/yihui/blogdown/templates.html) in the **blogdown** book.
-
-# Design philosophy
-
-Lastly, a few words about my design philosophy for this theme: I have been relying on existing frameworks like Bootstrap for years since I'm not really a designer, and I was always scared by the complexity of CSS.
-
-When I started writing this theme, I asked myself, "_What if I just write from scratch?_" No Bootstrap. No Normalize.css. I don't care about IE (life could be so much easier without IE) or inconsistencies among browsers (for personal websites). As long as the theme looks okay in Chrome, Firefox, and Safari, I'm done. Thanks to the simplicity of Markdown, you cannot really produce very complicated HTML, and I think styling the HTML output from Markdown is much simpler than general HTML documents. For example, I do not need to care much about form elements like textareas or buttons.
-
-After I finished this theme, I started to wonder why I'd need `normalize.css` at all (it sounds like a religious belief). The default appearance of modern browsers actually looks pretty good in my eyes, after I tweak the typeface a little bit.
-
-Compared to inconsistencies across browsers, I care much more about these properties of HTML elements:
-
-- Tables should always be centered, and striped tables are easier to read especially when they are wide. Tables should not have vertical borders.
-- An image should be centered if it is the only child element of a paragraph.
-- The `max-width` of images, videos, and iframes should be `100%`.
-
-I hope you can enjoy this theme. The source code is [on Github](https://github.com/yihui/hugo-xmin). Happy hacking!
+# Others
+***

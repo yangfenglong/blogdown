@@ -1,0 +1,34 @@
+---
+title: gut-structure
+date: '2019-07-16'
+
+categories:
+  - Nature Medicine
+tags:
+  - gut
+  - gut_microbiota
+  - review
+
+
+link-citations: yes
+csl: D:/postdocNcRNA2019/papers/common/styles/cell.csl
+bibliography: D:/postdocNcRNA2019/papers/common/bibs/Bib.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# A unifying theory for the crypt
+
+
+## Figure 1 : Complexities of intestinal stem cells.
+![a, The intestinal epithelium follows the distinct contours of villus–crypt units in the intestine. b, Normally, Lgr5-expressing stem cells (Lgr5+) lead to the production of precursor cells that further differentiate into the various types of crypt epithelial cell. Buczacki et al.1 report that precursors of one type of differentiated intestinal cell, Paneth cells, can persist for several weeks in a quiescent state before maturing into Paneth cells. Intriguingly, these quiescent precursors can revert back into Lgr5+ stem cells following crypt damage.[@Clevers2013]](https://media.nature.com/lw926/nature-assets/nature/journal/v495/n7439/images/nature11958-f1.2.jpg)
+
+肠隐窝 （ intestinal crypt）是小肠上皮在绒毛根部下陷至固有层而形成的管状腺，开口于相邻绒毛之间。肠隐窝增加由于肠表面积增加可促进小肠的吸收功能
+
+
+
+## Reference
+
+
+

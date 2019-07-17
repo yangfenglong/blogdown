@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gut on A minimal Hugo website</title>
+    <link>/categories/gut/</link>
+    <description>Recent content in Gut on A minimal Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/categories/gut/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>gut-structure</title>
+      <link>/gut/gut-structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gut/gut-structure/</guid>
+      <description>A unifying theory for the cryptFigure 1 : Complexities of intestinal stem cells.a, The intestinal epithelium follows the distinct contours of villus–crypt units in the intestine. b, Normally, Lgr5-expressing stem cells (Lgr5+) lead to the production of precursor cells that further differentiate into the various types of crypt epithelial cell. Buczacki et al.1 report that precursors of one type of differentiated intestinal cell, Paneth cells, can persist for several weeks in a quiescent state before maturing into Paneth cells.</description>
+    </item>
+    
+  </channel>
+</rss>

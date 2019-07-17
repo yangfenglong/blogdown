@@ -13,41 +13,31 @@
     
     <item>
       <title>Signals from the gut microbiota to distant organs in physiology and disease</title>
-      <link>/nature-medicion/signals-from-the-gut-microbiota-to-distant-organs-in-physiology-and-disease/</link>
+      <link>/nature-medicion/2019-07-16-signals-from-the-gut-microbiota-to-distant-organs-in-physiology-and-disease/</link>
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/nature-medicion/signals-from-the-gut-microbiota-to-distant-organs-in-physiology-and-disease/</guid>
-      <description>Signals from the gut microbiota to distant organs in physiology and diseaseGut microbiota convert environmental signals and dietary molecules into signaling metabolites to communicate with the host (Contreras et al., 2016).
-ReferenceContreras, A.V., Cocom-Chan, B., Hernandez-Montes, G., Portillo-Bobadilla, T., and Resendis-Antonio, O. (2016). Host-microbiome interaction and cancer: Potential application in precision medicine. Frontiers in Physiology 7, 1–23.
-</description>
+      <guid>/nature-medicion/2019-07-16-signals-from-the-gut-microbiota-to-distant-organs-in-physiology-and-disease/</guid>
+      <description>Figure 1 Gut microbiota convert environmental signals and dietary molecules into signaling metabolites to communicate with the host. At the top of the figure are indicated factors that can alter the composition of the gut microbiota. The gut microbiota converts these inputs into metabolites, which can signal to different organs and tissues in the host, as indicated below(Contreras et al., 2016).
+ReferenceContreras, A.V., Cocom-Chan, B., Hernandez-Montes, G., Portillo-Bobadilla, T.</description>
     </item>
     
     <item>
-      <title>Another Note on A blogdown Tutorial</title>
-      <link>/note/2017/06/14/another-note/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <title>gut-structure</title>
+      <link>/gut/gut-structure/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/note/2017/06/14/another-note/</guid>
-      <description>I just discovered an awesome tutorial on blogdown written by Alison. I have to admit this is the best blogdown tutorial I have seen so far.</description>
+      <guid>/gut/gut-structure/</guid>
+      <description>A unifying theory for the cryptFigure 1 : Complexities of intestinal stem cells.a, The intestinal epithelium follows the distinct contours of villus–crypt units in the intestine. b, Normally, Lgr5-expressing stem cells (Lgr5+) lead to the production of precursor cells that further differentiate into the various types of crypt epithelial cell. Buczacki et al.1 report that precursors of one type of differentiated intestinal cell, Paneth cells, can persist for several weeks in a quiescent state before maturing into Paneth cells.</description>
     </item>
     
     <item>
-      <title>A Quick Note on Two Beautiful Websites</title>
-      <link>/note/2017/06/13/a-quick-note/</link>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/note/2017/06/13/a-quick-note/</guid>
-      <description>To me, the two most impressive websites based on blogdown are:
- Rob J Hyndman&amp;rsquo;s personal website. Live Free or Dichotomize by Lucy and Nick et al.  I&amp;rsquo;m sure there will be more.</description>
-    </item>
-    
-    <item>
-      <title>About Hugo XMin</title>
+      <title>Resume</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+      <description>Fenglong Yang           Postdoc at IFFS, UESTCMy supervisor is Prof. Quan Zou. Tel: (+86)15620056265 Wechat: yangfenglong211314Email: yangfenglong110@126.comgithub: https://github.com/yangfenglong    
+Education and work experience          Mar 2019 - Now Postdoc, University of Electronic Science and Technology of China   Jan 2016 - Jan 2019 Bioinformatic engineer, Tianjin Novogene Bioinformatics Technology Co.</description>
     </item>
     
   </channel>
